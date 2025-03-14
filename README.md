@@ -45,10 +45,10 @@ job-list-app/
 ## Architecture
 
 ### Component Diagram
-![Component Diagram](./component-diagram.png)
+![Component Diagram](./docs/component-diagram.jpg)
 
 ### Deployment Diagram
-![Deployment Diagram](./deployment-diagram.png)
+![Deployment Diagram](./docs/deployment-diagram.jpg)
 
 
 ## Setup & Installation
