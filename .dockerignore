@@ -1,0 +1,29 @@
+# Ignore node_modules and dependencies
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Ignore build artifacts
+dist/
+build/
+backend/target/
+frontend/build/
+
+# Ignore environment files (prevent secrets exposure)
+.env
+.env.local
+env/
+*.env
+
+# Ignore IDE/editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore logs and cache files
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
